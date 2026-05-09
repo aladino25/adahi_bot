@@ -3,7 +3,7 @@ import time
 from bs4 import BeautifulSoup
 
 BOT_TOKEN = "8715583562:AARHrfJi6UMDRBaDt0Rca1pcN0BTJP0-5Arw"
-CHAT_ID = "اضغط الرقم هنا"  # 1743632394 userinfobot
+CHAT_ID = "1743632394"
 
 last_wilayas = set()
 
@@ -47,3 +47,4 @@ print("🚀 تشغيل بوت مراقبة أضاحي...")
 while True:
     check_adahi()
     time.sleep(30)
+Rédiger
